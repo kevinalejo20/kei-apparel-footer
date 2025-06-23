@@ -1,2 +1,2 @@
-# kei-apparel-footer
+index.html
 Turn in Activity Git
